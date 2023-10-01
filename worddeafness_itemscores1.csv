@@ -1,0 +1,775 @@
+﻿Test,Subtest,Subtest Condition,Item number,Item type,Item,Item Response,Item score
+fMRI spoken narrative paradigm: 1st admin,NA,NA,1,NA,Albert hated war.,yes,1
+fMRI spoken narrative paradigm: 1st admin,NA,NA,2,NA,"Albert was a loud, noisy child.",yes,0
+fMRI spoken narrative paradigm: 1st admin,NA,NA,3,NA,"Albert's parents took him to doctors, because they were worried about him.",yes,1
+fMRI spoken narrative paradigm: 1st admin,NA,NA,4,NA,Albert was fascinated by electricity.,no,0
+fMRI spoken narrative paradigm: 1st admin,NA,NA,5,NA,Albert was an early talker.,no,1
+fMRI spoken narrative paradigm: 1st admin,NA,NA,6,NA,Albert's dad and uncle had a farming business.,yes,0
+fMRI written narrative paradigm: 1st admin,NA,NA,1,NA,Edison's family called him Al.,yes,1
+fMRI written narrative paradigm: 1st admin,NA,NA,2,NA,Edison's sister lived on a farm.,yes,1
+fMRI written narrative paradigm: 1st admin,NA,NA,3,NA,Edison was the oldest child in his family.,no,1
+fMRI written narrative paradigm: 1st admin,NA,NA,4,NA,Edison lived a long life.,yes,1
+fMRI written narrative paradigm: 1st admin,NA,NA,5,NA,Music records were around when Edison was a child.,yes,1
+fMRI written narrative paradigm: 1st admin,NA,NA,6,NA,Edison was considered the greatest inventor of his time,yes,1
+fMRI slow spoken narrative paradigm,NA,NA,1,NA,The Beatles were called the Mop Tops.,yes,1
+fMRI slow spoken narrative paradigm,NA,NA,2,NA,The Beatles wore suit jackets with collars.,yes,0
+fMRI slow spoken narrative paradigm,NA,NA,3,NA,The Beatles were from London.,yes,0
+fMRI slow spoken narrative paradigm,NA,NA,4,NA,The Beatles were popular in the US.,yes,1
+fMRI slow spoken narrative paradigm,NA,NA,5,NA,The US newspapers called the Beatles the English Invasion.,yes,0
+fMRI slow spoken narrative paradigm,NA,NA,6,NA,The Beatles released 13 albums.,yes,1
+fMRI slow written narrative paradigm,NA,NA,1,NA,Shakespeare was only famous in English-speaking countries.,no,1
+fMRI slow written narrative paradigm,NA,NA,2,NA,Shakespeare's plays have been made into movies.,yes,1
+fMRI slow written narrative paradigm,NA,NA,3,NA,Shakespeare invented several words.,yes,1
+fMRI slow written narrative paradigm,NA,NA,4,NA,Shakespeare's father was a carpenter.,no,1
+fMRI slow written narrative paradigm,NA,NA,5,NA,Shakespeare built theaters.,yes,1
+fMRI slow written narrative paradigm,NA,NA,6,NA,Much is known about Shakespeare's day-to-day life.,no,1
+fMRI spoken narrative paradigm: 2nd admin,NA,NA,1,NA,Ameilia Earhart became a pilot in the 1920s.,yes,1
+fMRI spoken narrative paradigm: 2nd admin,NA,NA,2,NA,Amelia Earhart was also a fashion designer.,no,0
+fMRI spoken narrative paradigm: 2nd admin,NA,NA,3,NA,Amelia Earhart died at a young age.,yes,1
+fMRI spoken narrative paradigm: 2nd admin,NA,NA,4,NA,Amelia Earhart's plane crashed in the Atlantic Ocean.,yes,0
+fMRI spoken narrative paradigm: 2nd admin,NA,NA,5,NA,Amelia Earhart was from Iowa.,no,1
+fMRI spoken narrative paradigm: 2nd admin,NA,NA,6,NA,Amelia Earhart's father had financial troubles.,no,0
+WAIS,Digit Span,Forward,1,NA,NA,NA,2
+WAIS,Digit Span,Forward,2,NA,NA,NA,2
+WAIS,Digit Span,Forward,3,NA,NA,NA,2
+WAIS,Digit Span,Forward,4,NA,NA,NA,1
+WAIS,Digit Span,Forward,5,NA,NA,NA,2
+WAIS,Digit Span,Forward,6,NA,NA,NA,0
+WAIS,Digit Span,Backward,1,NA,NA,NA,2
+WAIS,Digit Span,Backward,2,NA,NA,NA,2
+WAIS,Digit Span,Backward,3,NA,NA,NA,2
+WAIS,Digit Span,Backward,4,NA,NA,NA,2
+WAIS,Digit Span,Backward,5,NA,NA,NA,1
+WAIS,Digit Span,Backward,6,NA,NA,NA,0
+WAIS,Digit Span,Sequencing,1,NA,NA,NA,2
+WAIS,Digit Span,Sequencing,2,NA,NA,NA,2
+WAIS,Digit Span,Sequencing,3,NA,NA,NA,2
+WAIS,Digit Span,Sequencing,4,NA,NA,NA,2
+WAIS,Digit Span,Sequencing,5,NA,NA,NA,2
+WAIS,Digit Span,Sequencing,6,NA,NA,NA,1
+WAIS,Digit Span,Sequencing,7,NA,NA,NA,0
+WAIS,Letter-Number Sequencing,NA,1,NA,NA,NA,3
+WAIS,Letter-Number Sequencing,NA,2,NA,NA,NA,3
+WAIS,Letter-Number Sequencing,NA,3,NA,NA,NA,3
+WAIS,Letter-Number Sequencing,NA,4,NA,NA,NA,3
+WAIS,Letter-Number Sequencing,NA,5,NA,NA,NA,3
+WAIS,Letter-Number Sequencing,NA,6,NA,NA,NA,1
+WAIS,Letter-Number Sequencing,NA,7,NA,NA,NA,3
+WAIS,Letter-Number Sequencing,NA,8,NA,NA,NA,1
+WAIS,Letter-Number Sequencing,NA,9,NA,NA,NA,0
+PALPA,1,NA,1,different,NA,no,1
+PALPA,1,NA,2,different,NA,no,1
+PALPA,1,NA,3,same,NA,yes,1
+PALPA,1,NA,4,different,NA,no,1
+PALPA,1,NA,5,same,NA,yes,1
+PALPA,1,NA,6,different,NA,no,1
+PALPA,1,NA,7,same,NA,yes,1
+PALPA,1,NA,8,same,NA,yes,1
+PALPA,1,NA,9,same,NA,yes,1
+PALPA,1,NA,10,same,NA,yes,1
+PALPA,1,NA,11,different,NA,no,1
+PALPA,1,NA,12,different,NA,no,1
+PALPA,1,NA,13,same,NA,yes,1
+PALPA,1,NA,14,different,NA,no,1
+PALPA,1,NA,15,different,NA,no,1
+PALPA,1,NA,16,same,NA,yes,1
+PALPA,1,NA,17,different,NA,no,1
+PALPA,1,NA,18,different,NA,no,1
+PALPA,1,NA,19,same,NA,yes,1
+PALPA,1,NA,20,same,NA,yes,1
+PALPA,1,NA,21,same,NA,yes,1
+PALPA,1,NA,22,different,NA,no,1
+PALPA,1,NA,23,same,NA,yes,1
+PALPA,1,NA,24,different,NA,no,1
+PALPA,1,NA,25,different,NA,no,1
+PALPA,1,NA,26,same,NA,yes,1
+PALPA,1,NA,27,different,NA,no,1
+PALPA,1,NA,28,same,NA,yes,1
+PALPA,1,NA,29,same,NA,yes,1
+PALPA,1,NA,30,same,NA,yes,1
+PALPA,1,NA,31,different,NA,no,1
+PALPA,1,NA,32,different,NA,no,1
+PALPA,1,NA,33,same,NA,yes,1
+PALPA,1,NA,34,same,NA,yes,1
+PALPA,1,NA,35,different,NA,no,1
+PALPA,1,NA,36,different,NA,no,1
+PALPA,1,NA,37,different,NA,no,1
+PALPA,1,NA,38,same,NA,no,0
+PALPA,1,NA,39,different,NA,no,1
+PALPA,1,NA,40,same,NA,yes,1
+PALPA,1,NA,41,same,NA,yes,1
+PALPA,1,NA,42,different,NA,no,1
+PALPA,1,NA,43,different,NA,no,1
+PALPA,1,NA,44,different,NA,no,1
+PALPA,1,NA,45,same,NA,yes,1
+PALPA,1,NA,46,different,NA,no,1
+PALPA,1,NA,47,same,NA,yes,1
+PALPA,1,NA,48,same,NA,yes,1
+PALPA,1,NA,49,same,NA,yes,1
+PALPA,1,NA,50,same,NA,yes,1
+PALPA,1,NA,51,different,NA,no,1
+PALPA,1,NA,52,same,NA,yes,1
+PALPA,1,NA,53,different,NA,no,1
+PALPA,1,NA,54,different,NA,no,1
+PALPA,1,NA,55,same,NA,yes,1
+PALPA,1,NA,56,different,NA,no,1
+PALPA,1,NA,57,different,NA,no,1
+PALPA,1,NA,58,same,NA,yes,1
+PALPA,1,NA,59,different,NA,no,1
+PALPA,1,NA,60,different,NA,no,1
+PALPA,1,NA,61,different,NA,no,1
+PALPA,1,NA,62,different,NA,no,1
+PALPA,1,NA,63,same,NA,yes,1
+PALPA,1,NA,64,same,NA,yes,1
+PALPA,1,NA,65,same,NA,yes,1
+PALPA,1,NA,66,same,NA,yes,1
+PALPA,1,NA,67,different,NA,no,1
+PALPA,1,NA,68,same,NA,yes,1
+PALPA,1,NA,69,different,NA,no,1
+PALPA,1,NA,70,same,NA,yes,1
+PALPA,1,NA,71,same,NA,yes,1
+PALPA,1,NA,72,different,NA,no,1
+PALPA,2,NA,1,different,NA,no,1
+PALPA,2,NA,2,different,NA,no,1
+PALPA,2,NA,3,same,NA,yes,1
+PALPA,2,NA,4,different,NA,no,1
+PALPA,2,NA,5,same,NA,yes,1
+PALPA,2,NA,6,different,NA,no,1
+PALPA,2,NA,7,same,NA,yes,1
+PALPA,2,NA,8,same,NA,yes,1
+PALPA,2,NA,9,same,NA,yes,1
+PALPA,2,NA,10,same,NA,yes,1
+PALPA,2,NA,11,different,NA,no,1
+PALPA,2,NA,12,different,NA,no,1
+PALPA,2,NA,13,same,NA,yes,1
+PALPA,2,NA,14,different,NA,no,1
+PALPA,2,NA,15,different,NA,no,1
+PALPA,2,NA,16,same,NA,yes,1
+PALPA,2,NA,17,different,NA,no,1
+PALPA,2,NA,18,different,NA,no,1
+PALPA,2,NA,19,same,NA,yes,1
+PALPA,2,NA,20,same,NA,yes,1
+PALPA,2,NA,21,same,NA,no,0
+PALPA,2,NA,22,different,NA,no,1
+PALPA,2,NA,23,same,NA,yes,1
+PALPA,2,NA,24,different,NA,no,1
+PALPA,2,NA,25,different,NA,no,1
+PALPA,2,NA,26,same,NA,yes,1
+PALPA,2,NA,27,different,NA,no,1
+PALPA,2,NA,28,same,NA,yes,1
+PALPA,2,NA,29,same,NA,yes,1
+PALPA,2,NA,30,same,NA,yes,1
+PALPA,2,NA,31,different,NA,no,1
+PALPA,2,NA,32,different,NA,no,1
+PALPA,2,NA,33,same,NA,yes,1
+PALPA,2,NA,34,same,NA,yes,1
+PALPA,2,NA,35,different,NA,no,1
+PALPA,2,NA,36,different,NA,no,1
+PALPA,2,NA,37,different,NA,no,1
+PALPA,2,NA,38,same,NA,yes,1
+PALPA,2,NA,39,different,NA,no,1
+PALPA,2,NA,40,same,NA,yes,1
+PALPA,2,NA,41,same,NA,no,0
+PALPA,2,NA,42,different,NA,no,1
+PALPA,2,NA,43,different,NA,no,1
+PALPA,2,NA,44,different,NA,no,1
+PALPA,2,NA,45,same,NA,yes,1
+PALPA,2,NA,46,different,NA,no,1
+PALPA,2,NA,47,same,NA,yes,1
+PALPA,2,NA,48,same,NA,yes,1
+PALPA,2,NA,49,same,NA,yes,1
+PALPA,2,NA,50,same,NA,yes,1
+PALPA,2,NA,51,different,NA,no,1
+PALPA,2,NA,52,same,NA,yes,1
+PALPA,2,NA,53,different,NA,no,1
+PALPA,2,NA,54,different,NA,no,1
+PALPA,2,NA,55,same,NA,yes,1
+PALPA,2,NA,56,different,NA,no,1
+PALPA,2,NA,57,different,NA,no,1
+PALPA,2,NA,58,same,NA,yes,1
+PALPA,2,NA,59,different,NA,no,1
+PALPA,2,NA,60,different,NA,no,1
+PALPA,2,NA,61,different,NA,no,1
+PALPA,2,NA,62,different,NA,no,1
+PALPA,2,NA,63,same,NA,no,0
+PALPA,2,NA,64,same,NA,yes,1
+PALPA,2,NA,65,same,NA,yes,1
+PALPA,2,NA,66,same,NA,yes,1
+PALPA,2,NA,67,different,NA,no,1
+PALPA,2,NA,68,same,NA,no,0
+PALPA,2,NA,69,different,NA,no,1
+PALPA,2,NA,70,same,NA,yes,1
+PALPA,2,NA,71,same,NA,yes,1
+PALPA,2,NA,72,different,NA,no,1
+PALPA,5,NA,1,LILF,NA,no,0
+PALPA,5,NA,2,LIHF,NA,yes,1
+PALPA,5,NA,3,HILF,NA,no,0
+PALPA,5,NA,4,NW,NA,no,1
+PALPA,5,NA,5,HIHF,NA,yes,1
+PALPA,5,NA,6,HILF,NA,yes,1
+PALPA,5,NA,7,NW,NA,no,1
+PALPA,5,NA,8,NW,NA,no,1
+PALPA,5,NA,9,HIHF,NA,yes,1
+PALPA,5,NA,10,NW,NA,no,1
+PALPA,5,NA,11,NW,NA,no,1
+PALPA,5,NA,12,LILF,NA,yes,1
+PALPA,5,NA,13,NW,NA,no,1
+PALPA,5,NA,14,NW,NA,no,1
+PALPA,5,NA,15,LILF,NA,yes,1
+PALPA,5,NA,16,NW,NA,no,1
+PALPA,5,NA,17,NW,NA,no,1
+PALPA,5,NA,18,LILF,NA,yes,1
+PALPA,5,NA,19,NW,NA,no,1
+PALPA,5,NA,20,NW,NA,no,1
+PALPA,5,NA,21,NW,NA,no,1
+PALPA,5,NA,22,NW,NA,no,1
+PALPA,5,NA,23,LIHF,NA,no,0
+PALPA,5,NA,24,NW,NA,no,1
+PALPA,5,NA,25,HIHF,NA,yes,1
+PALPA,5,NA,26,LILF,NA,yes,1
+PALPA,5,NA,27,LIHF,NA,yes,1
+PALPA,5,NA,28,HILF,NA,yes,1
+PALPA,5,NA,29,HIHF,NA,yes,1
+PALPA,5,NA,30,LILF,NA,yes,1
+PALPA,5,NA,31,HILF,NA,yes,1
+PALPA,5,NA,32,NW,NA,no,1
+PALPA,5,NA,33,LILF,NA,yes,1
+PALPA,5,NA,34,NW,NA,no,1
+PALPA,5,NA,35,NW,NA,no,1
+PALPA,5,NA,36,LIHF,NA,yes,1
+PALPA,5,NA,37,NW,NA,no,1
+PALPA,5,NA,38,HILF,NA,no,0
+PALPA,5,NA,39,NW,NA,no,1
+PALPA,5,NA,40,NW,NA,no,1
+PALPA,5,NA,41,HIHF,NA,yes,1
+PALPA,5,NA,42,NW,NA,no,1
+PALPA,5,NA,43,NW,NA,no,1
+PALPA,5,NA,44,NW,NA,no,1
+PALPA,5,NA,45,LIHF,NA,yes,1
+PALPA,5,NA,46,LILF,NA,yes,1
+PALPA,5,NA,47,HIHF,NA,yes,1
+PALPA,5,NA,48,NW,NA,no,1
+PALPA,5,NA,49,HILF,NA,yes,1
+PALPA,5,NA,50,NW,NA,no,1
+PALPA,5,NA,51,HILF,NA,yes,1
+PALPA,5,NA,52,NW,NA,no,1
+PALPA,5,NA,53,NW,NA,no,1
+PALPA,5,NA,54,LIHF,NA,yes,1
+PALPA,5,NA,55,LIHF,NA,yes,1
+PALPA,5,NA,56,HIHF,NA,yes,1
+PALPA,5,NA,57,NW,NA,no,1
+PALPA,5,NA,58,LIHF,NA,yes,1
+PALPA,5,NA,59,HILF,NA,yes,1
+PALPA,5,NA,60,NW,NA,no,1
+PALPA,5,NA,61,NW,NA,no,1
+PALPA,5,NA,62,HIlF,NA,yes,1
+PALPA,5,NA,63,NW,NA,yes,0
+PALPA,5,NA,64,NW,NA,no,1
+PALPA,5,NA,65,LIHF,NA,yes,1
+PALPA,5,NA,66,NW,NA,no,1
+PALPA,5,NA,67,NW,NA,no,1
+PALPA,5,NA,68,HIHF,NA,yes,1
+PALPA,5,NA,69,NW,NA,no,1
+PALPA,5,NA,70,NW,NA,no,1
+PALPA,5,NA,71,HIHF,NA,yes,1
+PALPA,5,NA,72,NW,NA,no,1
+PALPA,5,NA,73,LIHF,NA,yes,1
+PALPA,5,NA,74,LILF,NA,yes,1
+PALPA,5,NA,75,NW,NA,yes,0
+PALPA,5,NA,76,NW,NA,no,1
+PALPA,5,NA,77,NW,NA,no,1
+PALPA,5,NA,78,HIHF,NA,yes,1
+PALPA,5,NA,79,HILF,NA,yes,1
+PALPA,5,NA,80,LILF,NA,yes,1
+PALPA,5,NA,81,NW,NA,no,1
+PALPA,5,NA,82,HIHF,NA,yes,1
+PALPA,5,NA,83,LILF,NA,yes,1
+PALPA,5,NA,84,LIHF,NA,yes,1
+PALPA,5,NA,85,HIlF,NA,no,0
+PALPA,5,NA,86,NW,NA,no,1
+PALPA,5,NA,87,LIHF,NA,yes,1
+PALPA,5,NA,88,HIHF,NA,yes,1
+PALPA,5,NA,89,LIlF,NA,yes,1
+PALPA,5,NA,90,NW,NA,no,1
+PALPA,5,NA,91,LIHF,NA,yes,1
+PALPA,5,NA,92,NW,NA,yes,0
+PALPA,5,NA,93,LIlF,NA,no,0
+PALPA,5,NA,94,LIHF,NA,yes,1
+PALPA,5,NA,95,NW,NA,no,1
+PALPA,5,NA,96,HILF,NA,yes,1
+PALPA,5,NA,97,HIlF,NA,yes,1
+PALPA,5,NA,98,NW,NA,no,1
+PALPA,5,NA,99,NW,NA,no,1
+PALPA,5,NA,100,HILF,NA,yes,1
+PALPA,5,NA,101,LIHF,NA,yes,1
+PALPA,5,NA,102,LILF,NA,yes,1
+PALPA,5,NA,103,NW,NA,no,1
+PALPA,5,NA,104,HiLF,NA,yes,1
+PALPA,5,NA,105,NW,NA,no,1
+PALPA,5,NA,106,LIHF,NA,yes,1
+PALPA,5,NA,107,NW,NA,no,1
+PALPA,5,NA,108,NW,NA,no,1
+PALPA,5,NA,109,LILF,NA,yes,1
+PALPA,5,NA,110,NW,NA,no,1
+PALPA,5,NA,111,HIlF,NA,yes,1
+PALPA,5,NA,112,LIHF,NA,yes,1
+PALPA,5,NA,113,NW,NA,no,1
+PALPA,5,NA,114,NW,NA,no,1
+PALPA,5,NA,115,LILF,NA,yes,1
+PALPA,5,NA,116,HIHF,NA,yes,1
+PALPA,5,NA,117,LILF,NA,yes,1
+PALPA,5,NA,118,NW,NA,no,1
+PALPA,5,NA,119,HILF,NA,yes,1
+PALPA,5,NA,120,HILF,NA,yes,1
+PALPA,5,NA,121,NW,NA,no,1
+PALPA,5,NA,122,NW,NA,no,1
+PALPA,5,NA,123,NW,NA,no,1
+PALPA,5,NA,124,NW,NA,no,1
+PALPA,5,NA,125,LILF,NA,yes,1
+PALPA,5,NA,126,HIHF,NA,yes,1
+PALPA,5,NA,127,NW,NA,no,1
+PALPA,5,NA,128,NW,NA,yes,0
+PALPA,5,NA,129,NW,NA,no,1
+PALPA,5,NA,130,NW,NA,no,1
+PALPA,5,NA,131,NW,NA,no,1
+PALPA,5,NA,132,HIHF,NA,yes,1
+PALPA,5,NA,133,NW,NA,no,1
+PALPA,5,NA,134,LIHF,NA,yes,1
+PALPA,5,NA,135,NW,NA,no,1
+PALPA,5,NA,136,NW,NA,no,1
+PALPA,5,NA,137,LILF,NA,yes,1
+PALPA,5,NA,138,HIHF,NA,yes,1
+PALPA,5,NA,139,NW,NA,no,1
+PALPA,5,NA,140,HILF,NA,yes,0
+PALPA,5,NA,141,NW,NA,no,1
+PALPA,5,NA,142,NW,NA,no,1
+PALPA,5,NA,143,LIHF,NA,yes,1
+PALPA,5,NA,144,NW,NA,no,1
+PALPA,5,NA,145,NW,NA,no,1
+PALPA,5,NA,146,NW,NA,no,1
+PALPA,5,NA,147,HIHF,NA,yes,1
+PALPA,5,NA,148,HIHF,NA,yes,1
+PALPA,5,NA,149,LIHF,NA,yes,1
+PALPA,5,NA,150,NW,NA,no,1
+PALPA,5,NA,151,NW,NA,no,1
+PALPA,5,NA,152,HIHF,NA,yes,1
+PALPA,5,NA,153,NW,NA,no,1
+PALPA,5,NA,154,NW,NA,no,1
+PALPA,5,NA,155,HILF,NA,yes,1
+PALPA,5,NA,156,NW,NA,no,1
+PALPA,5,NA,157,LILF,NA,yes,1
+PALPA,5,NA,158,HIHF,NA,yes,1
+PALPA,5,NA,159,NW,NA,no,1
+PALPA,5,NA,160,NW,NA,yes,0
+PALPA,35,Regular,1,NA,NA,correct,1
+PALPA,35,Regular,2,NA,NA,correct,1
+PALPA,35,Regular,3,NA,NA,correct,1
+PALPA,35,Regular,4,NA,NA,correct,1
+PALPA,35,Regular,5,NA,NA,correct,1
+PALPA,35,Regular,6,NA,NA,correct,1
+PALPA,35,Regular,7,NA,NA,correct,1
+PALPA,35,Regular,8,NA,NA,correct,1
+PALPA,35,Regular,9,NA,NA,correct,1
+PALPA,35,Regular,10,NA,NA,correct,1
+PALPA,35,Regular,11,NA,NA,correct,1
+PALPA,35,Regular,12,NA,NA,correct,1
+PALPA,35,Regular,13,NA,NA,correct,1
+PALPA,35,Regular,14,NA,NA,correct,1
+PALPA,35,Regular,15,NA,NA,correct,1
+PALPA,35,Regular,16,NA,NA,correct,1
+PALPA,35,Regular,17,NA,NA,correct,1
+PALPA,35,Regular,18,NA,NA,correct,1
+PALPA,35,Regular,19,NA,NA,correct,1
+PALPA,35,Regular,20,NA,NA,correct,1
+PALPA,35,Regular,21,NA,NA,correct,1
+PALPA,35,Regular,22,NA,NA,correct,1
+PALPA,35,Regular,23,NA,NA,correct,1
+PALPA,35,Regular,24,NA,NA,correct,1
+PALPA,35,Regular,25,NA,NA,correct,1
+PALPA,35,Regular,26,NA,NA,correct,1
+PALPA,35,Regular,27,NA,NA,correct,1
+PALPA,35,Regular,28,NA,NA,correct,1
+PALPA,35,Regular,29,NA,NA,correct,1
+PALPA,35,Regular,30,NA,NA,correct,1
+PALPA,35,Exception,1,NA,NA,correct,1
+PALPA,35,Exception,2,NA,NA,correct,1
+PALPA,35,Exception,3,NA,NA,correct,1
+PALPA,35,Exception,4,NA,NA,correct,1
+PALPA,35,Exception,5,NA,NA,correct,1
+PALPA,35,Exception,6,NA,NA,prɛti,0
+PALPA,35,Exception,7,NA,NA,correct,1
+PALPA,35,Exception,8,NA,NA,correct,1
+PALPA,35,Exception,9,NA,NA,correct,1
+PALPA,35,Exception,10,NA,NA,correct,1
+PALPA,35,Exception,11,NA,NA,correct,1
+PALPA,35,Exception,12,NA,NA,correct,1
+PALPA,35,Exception,13,NA,NA,correct,1
+PALPA,35,Exception,14,NA,NA,correct,1
+PALPA,35,Exception,15,NA,NA,ʃo [self-corrected with a semantic cue],0
+PALPA,35,Exception,16,NA,NA,correct,1
+PALPA,35,Exception,17,NA,NA,correct,1
+PALPA,35,Exception,18,NA,NA,tɑm,0
+PALPA,35,Exception,19,NA,NA,correct,1
+PALPA,35,Exception,20,NA,NA,correct,1
+PALPA,35,Exception,21,NA,NA,correct,1
+PALPA,35,Exception,22,NA,NA,correct,1
+PALPA,35,Exception,23,NA,NA,correct,1
+PALPA,35,Exception,24,NA,NA,bəri,0
+PALPA,35,Exception,25,NA,NA,sɪw [self-corrected with a semantic cue],0
+PALPA,35,Exception,26,NA,NA,correct,1
+PALPA,35,Exception,27,NA,NA,correct,1
+PALPA,35,Exception,28,NA,NA,correct,1
+PALPA,35,Exception,29,NA,NA,brutʃ [self-corrected with a semantic cue],0
+PALPA,35,Exception,30,NA,NA,correct,1
+PALPA,36,3-letter,1,NA,NA,correct,1
+PALPA,36,3-letter,2,NA,NA,correct,1
+PALPA,36,3-letter,3,NA,NA,correct,1
+PALPA,36,3-letter,4,NA,NA,correct,1
+PALPA,36,3-letter,5,NA,NA,correct,1
+PALPA,36,3-letter,6,NA,NA,correct,1
+PALPA,36,4-letter,1,NA,NA,correct,1
+PALPA,36,4-letter,2,NA,NA,correct,1
+PALPA,36,4-letter,3,NA,NA,correct,1
+PALPA,36,4-letter,4,NA,NA,correct,1
+PALPA,36,4-letter,5,NA,NA,correct,1
+PALPA,36,4-letter,6,NA,NA,correct,1
+PALPA,36,5-letter,1,NA,NA,correct,1
+PALPA,36,5-letter,2,NA,NA,correct,1
+PALPA,36,5-letter,3,NA,NA,correct,1
+PALPA,36,5-letter,4,NA,NA,correct,1
+PALPA,36,5-letter,5,NA,NA,correct,1
+PALPA,36,5-letter,6,NA,NA,correct,1
+PALPA,36,6-letter,1,NA,NA,correct,1
+PALPA,36,6-letter,2,NA,NA,correct,1
+PALPA,36,6-letter,3,NA,NA,correct,1
+PALPA,36,6-letter,4,NA,NA,correct,1
+PALPA,36,6-letter,5,NA,NA,correct,1
+PALPA,36,6-letter,6,NA,NA,correct,1
+PALPA,44,Regular,1,NA,NA,correct,1
+PALPA,44,Regular,2,NA,NA,correct,1
+PALPA,44,Regular,3,NA,NA,correct,1
+PALPA,44,Regular,4,NA,NA,correct,1
+PALPA,44,Regular,5,NA,NA,correct,1
+PALPA,44,Regular,6,NA,NA,correct,1
+PALPA,44,Regular,7,NA,NA,correct,1
+PALPA,44,Regular,8,NA,NA,correct,1
+PALPA,44,Regular,9,NA,NA,correct,1
+PALPA,44,Regular,10,NA,NA,correct,1
+PALPA,44,Regular,11,NA,NA,correct,1
+PALPA,44,Regular,12,NA,NA,kinow [self-corrected with a semantic cue],0
+PALPA,44,Regular,13,NA,NA,correct,1
+PALPA,44,Regular,14,NA,NA,correct,1
+PALPA,44,Regular,15,NA,NA,correct,1
+PALPA,44,Regular,16,NA,NA,correct,1
+PALPA,44,Regular,17,NA,NA,correct,1
+PALPA,44,Regular,18,NA,NA,correct,1
+PALPA,44,Regular,19,NA,NA,correct,1
+PALPA,44,Regular,20,NA,NA,no response,0
+PALPA,44,Exception,1,NA,NA,correct,1
+PALPA,44,Exception,2,NA,NA,correct,1
+PALPA,44,Exception,3,NA,NA,correct,1
+PALPA,44,Exception,4,NA,NA,correct,1
+PALPA,44,Exception,5,NA,NA,correct,1
+PALPA,44,Exception,6,NA,NA,sh [self-corrected with a semantic cue],0
+PALPA,44,Exception,7,NA,NA,correct,1
+PALPA,44,Exception,8,NA,NA,correct,1
+PALPA,44,Exception,9,NA,NA,no response,0
+PALPA,44,Exception,10,NA,NA,no response,0
+PALPA,44,Exception,11,NA,NA,correct,1
+PALPA,44,Exception,12,NA,NA,correct,1
+PALPA,44,Exception,13,NA,NA,correct,1
+PALPA,44,Exception,14,NA,NA,correct,1
+PALPA,44,Exception,15,NA,NA,correct,1
+PALPA,44,Exception,16,NA,NA,correct,1
+PALPA,44,Exception,17,NA,NA,correct,1
+PALPA,44,Exception,18,NA,NA,correct,1
+PALPA,44,Exception,19,NA,NA,correct,1
+PALPA,44,Exception,20,NA,NA,correct,1
+PALPA,45,3-letter,1,NA,NA,cad,0
+PALPA,45,3-letter,2,NA,NA,ben,0
+PALPA,45,3-letter,3,NA,NA,nar,1
+PALPA,45,3-letter,4,NA,NA,cub,0
+PALPA,45,3-letter,5,NA,NA,fawn,1
+PALPA,45,3-letter,6,NA,NA,lapt,0
+PALPA,45,4-letter,1,NA,NA,shid,1
+PALPA,45,4-letter,2,NA,NA,boke,1
+PALPA,45,4-letter,3,NA,NA,dupe,1
+PALPA,45,4-letter,4,NA,NA,birl,1
+PALPA,45,4-letter,5,NA,NA,dusp,1
+PALPA,45,4-letter,6,NA,NA,souf,1
+PALPA,45,5-letter,1,NA,NA,snite,1
+PALPA,45,5-letter,2,NA,NA,hance,1
+PALPA,45,5-letter,3,NA,NA,houch,1
+PALPA,45,5-letter,4,NA,NA,smode,1
+PALPA,45,5-letter,5,NA,NA,glope,1
+PALPA,45,5-letter,6,NA,NA,grast,0
+PALPA,45,6-letter,1,NA,NA,dring,1
+PALPA,45,6-letter,2,NA,NA,skweet,0
+PALPA,45,6-letter,3,NA,NA,chirse,0
+PALPA,45,6-letter,4,NA,NA,freeze,0
+PALPA,45,6-letter,5,NA,NA,shoth,0
+PALPA,45,6-letter,6,NA,NA,pretch,1
+BNT,NA,NA,1,NA,NA,correct,1
+BNT,NA,NA,2,NA,NA,correct,1
+BNT,NA,NA,3,NA,NA,correct,1
+BNT,NA,NA,4,NA,NA,correct,1
+BNT,NA,NA,5,NA,NA,correct,1
+BNT,NA,NA,6,NA,NA,correct,1
+BNT,NA,NA,7,NA,NA,correct,1
+BNT,NA,NA,8,NA,NA,correct,1
+BNT,NA,NA,9,NA,NA,correct,1
+BNT,NA,NA,10,NA,NA,correct,1
+BNT,NA,NA,11,NA,NA,correct,1
+BNT,NA,NA,12,NA,NA,correct,1
+BNT,NA,NA,13,NA,NA,correct,1
+BNT,NA,NA,14,NA,NA,correct,1
+BNT,NA,NA,15,NA,NA,correct,1
+BNT,NA,NA,16,NA,NA,correct,1
+BNT,NA,NA,17,NA,NA,correct,1
+BNT,NA,NA,18,NA,NA,correct,1
+BNT,NA,NA,19,NA,NA,correct,1
+BNT,NA,NA,20,NA,NA,correct,1
+BNT,NA,NA,21,NA,NA,correct,1
+BNT,NA,NA,22,NA,NA,correct,1
+BNT,NA,NA,23,NA,NA,correct,1
+BNT,NA,NA,24,NA,NA,correct,1
+BNT,NA,NA,25,NA,NA,correct,1
+BNT,NA,NA,26,NA,NA,correct,1
+BNT,NA,NA,27,NA,NA,correct,1
+BNT,NA,NA,28,NA,NA,correct,1
+BNT,NA,NA,29,NA,NA,correct,1
+BNT,NA,NA,30,NA,NA,correct,1
+BNT,NA,NA,31,NA,NA,correct,1
+BNT,NA,NA,32,NA,NA,correct,1
+BNT,NA,NA,33,NA,NA,correct,1
+BNT,NA,NA,34,NA,NA,correct,1
+BNT,NA,NA,35,NA,NA,correct,1
+BNT,NA,NA,36,NA,NA,correct,1
+BNT,NA,NA,37,NA,NA,correct,1
+BNT,NA,NA,38,NA,NA,correct,1
+BNT,NA,NA,39,NA,NA,correct,1
+BNT,NA,NA,40,NA,NA,correct,1
+BNT,NA,NA,41,NA,NA,correct,1
+BNT,NA,NA,42,NA,NA,stɛθəskon [self-corrected without cues],0
+BNT,NA,NA,43,NA,NA,correct,1
+BNT,NA,NA,44,NA,NA,correct,1
+BNT,NA,NA,45,NA,NA,correct,1
+BNT,NA,NA,46,NA,NA,correct,1
+BNT,NA,NA,47,NA,NA,correct,1
+BNT,NA,NA,48,NA,NA,correct,1
+BNT,NA,NA,49,NA,NA,correct,1
+BNT,NA,NA,50,NA,NA,compass [correct with a phonemic cue],0
+BNT,NA,NA,51,NA,NA,correct,1
+BNT,NA,NA,52,NA,NA,correct,1
+BNT,NA,NA,53,NA,NA,correct,1
+BNT,NA,NA,54,NA,NA,correct,1
+BNT,NA,NA,55,NA,NA,correct,1
+BNT,NA,NA,56,NA,NA,correct,1
+BNT,NA,NA,57,NA,NA,θætɪs- lattice,0
+BNT,NA,NA,58,NA,NA,I don't know the name. I know what it is but I don't know the name of it. It's a paint something but I can't think of the second word.,0
+BNT,NA,NA,59,NA,NA,correct,1
+BNT,NA,NA,60,NA,NA,correct,1
+NESSTI,NA,NA,NA,NA,laughter,laughter,1
+NESSTI,NA,NA,NA,NA,horse,phone ring,0
+NESSTI,NA,NA,NA,NA,sneeze,sneeze,1
+NESSTI,NA,NA,NA,NA,cat,cry,0
+NESSTI,NA,NA,NA,NA,phone,dial tone,1
+NESSTI,NA,NA,NA,NA,helicopter,motorcycle,0
+NESSTI,NA,NA,NA,NA,piano,text ring,0
+NESSTI,NA,NA,NA,NA,clearing throat,cough,1
+NESSTI,NA,NA,NA,NA,dog,barking,1
+NESSTI,NA,NA,NA,NA,tire screeching,tire screetching,1
+MBEA,Scale,NA,1,NA,NA,same,1
+MBEA,Scale,NA,2,NA,NA,same,0
+MBEA,Scale,NA,3,NA,NA,different,0
+MBEA,Scale,NA,4,NA,NA,same,1
+MBEA,Scale,NA,5,NA,NA,different,0
+MBEA,Scale,NA,6,NA,NA,different,1
+MBEA,Scale,NA,7,catch trial: not counted in total score,NA,different,1
+MBEA,Scale,NA,8,NA,NA,same,0
+MBEA,Scale,NA,9,NA,NA,different,1
+MBEA,Scale,NA,10,NA,NA,same,1
+MBEA,Scale,NA,11,NA,NA,different,1
+MBEA,Scale,NA,12,NA,NA,different,1
+MBEA,Scale,NA,13,NA,NA,same,1
+MBEA,Scale,NA,14,NA,NA,different,1
+MBEA,Scale,NA,15,NA,NA,different,0
+MBEA,Scale,NA,16,NA,NA,different,0
+MBEA,Scale,NA,17,NA,NA,different,1
+MBEA,Scale,NA,18,NA,NA,same,1
+MBEA,Scale,NA,19,NA,NA,different,1
+MBEA,Scale,NA,20,NA,NA,same,1
+MBEA,Scale,NA,21,NA,NA,same,1
+MBEA,Scale,NA,22,NA,NA,different,0
+MBEA,Scale,NA,23,NA,NA,different,1
+MBEA,Scale,NA,24,NA,NA,different,1
+MBEA,Scale,NA,25,NA,NA,different,0
+MBEA,Scale,NA,26,NA,NA,same,0
+MBEA,Scale,NA,27,NA,NA,different,1
+MBEA,Scale,NA,28,NA,NA,same,0
+MBEA,Scale,NA,29,NA,NA,different,1
+MBEA,Scale,NA,30,NA,NA,different,0
+MBEA,Scale,NA,31,NA,NA,same,1
+MBEA,Rhythmic Contour,NA,1,NA,NA,different,0
+MBEA,Rhythmic Contour,NA,2,NA,NA,different,1
+MBEA,Rhythmic Contour,NA,3,NA,NA,different,1
+MBEA,Rhythmic Contour,NA,4,NA,NA,same,1
+MBEA,Rhythmic Contour,NA,5,NA,NA,different,0
+MBEA,Rhythmic Contour,NA,6,NA,NA,different,1
+MBEA,Rhythmic Contour,NA,7,NA,NA,same,0
+MBEA,Rhythmic Contour,NA,8,NA,NA,different,0
+MBEA,Rhythmic Contour,NA,9,NA,NA,same,0
+MBEA,Rhythmic Contour,NA,10,NA,NA,different,1
+MBEA,Rhythmic Contour,NA,11,NA,NA,different,0
+MBEA,Rhythmic Contour,NA,12,NA,NA,different,1
+MBEA,Rhythmic Contour,NA,13,NA,NA,different,1
+MBEA,Rhythmic Contour,NA,14,catch trial: not counted in total score,NA,different,1
+MBEA,Rhythmic Contour,NA,15,NA,NA,same,1
+MBEA,Rhythmic Contour,NA,16,NA,NA,same,1
+MBEA,Rhythmic Contour,NA,17,NA,NA,different,1
+MBEA,Rhythmic Contour,NA,18,NA,NA,different,1
+MBEA,Rhythmic Contour,NA,19,NA,NA,different,1
+MBEA,Rhythmic Contour,NA,20,NA,NA,same,1
+MBEA,Rhythmic Contour,NA,21,NA,NA,same,1
+MBEA,Rhythmic Contour,NA,22,NA,NA,different,1
+MBEA,Rhythmic Contour,NA,23,NA,NA,same,1
+MBEA,Rhythmic Contour,NA,24,NA,NA,different,1
+MBEA,Rhythmic Contour,NA,25,NA,NA,different,0
+MBEA,Rhythmic Contour,NA,26,NA,NA,same,1
+MBEA,Rhythmic Contour,NA,27,NA,NA,same,1
+MBEA,Rhythmic Contour,NA,28,NA,NA,different,1
+MBEA,Rhythmic Contour,NA,29,NA,NA,same,1
+MBEA,Rhythmic Contour,NA,30,NA,NA,same,1
+MBEA,Rhythmic Contour,NA,31,NA,NA,different,1
+PPT,NA,NA,1,NA,NA,Pen,1
+PPT,NA,NA,2,NA,NA,Crib,1
+PPT,NA,NA,3,NA,NA,Screw,1
+PPT,NA,NA,4,NA,NA,Dog,1
+PPT,NA,NA,5,NA,NA,Mouse,1
+PPT,NA,NA,6,NA,NA,Campfire,1
+PPT,NA,NA,7,NA,NA,Spider,1
+PPT,NA,NA,8,NA,NA,Candle,1
+PPT,NA,NA,9,NA,NA,Apple,1
+PPT,NA,NA,10,NA,NA,Cat,1
+PPT,NA,NA,11,NA,NA,Bed,1
+PPT,NA,NA,12,NA,NA,Eye,1
+PPT,NA,NA,13,NA,NA,Saw,1
+PPT,NA,NA,14,NA,NA,Window,1
+QAB,Sentence Comprehension: 2nd admin,regular spoken,1,situational,Are you sitting?,yes,1
+QAB,Sentence Comprehension: 2nd admin,regular spoken,2,situational,Am I standing?,no,1
+QAB,Sentence Comprehension: 2nd admin,regular spoken,3,action,Do you eat ice cream with a spoon?,yes,1
+QAB,Sentence Comprehension: 2nd admin,regular spoken,4,passive,Are spiders bitten by people?,correct after repetition,0
+QAB,Sentence Comprehension: 2nd admin,regular spoken,5,action,Do you wear gloves on your feet?,correct after repetition,0
+QAB,Sentence Comprehension: 2nd admin,regular spoken,6,aspectual/modal,"If you're about to go outside, are you still inside?",yes,1
+QAB,Sentence Comprehension: 2nd admin,regular spoken,7,passive,Are worms eaten by birds?,yes,1
+QAB,Sentence Comprehension: 2nd admin,regular spoken,8,aspectual/modal,"If I tell you I used to exercise, do you think I exercise now?",correct after repetition,0
+QAB,Sentence Comprehension: 2nd admin,regular spoken,9,passive,Are babies delivered by doctors?,correct after repetition,0
+QAB,Sentence Comprehension: 2nd admin,regular spoken,10,aspectual/modal,"If you're about to start, have you started yet?",no,1
+QAB,Sentence Comprehension: 2nd admin,regular spoken,11,passive,Are parents raise by children?,no,1
+QAB,Sentence Comprehension: 2nd admin,regular spoken,12,aspectual/modal,"If you were at the party when I arrived, did you get there first?",yes,1
+QAB,Sentence Comprehension: 2nd admin,slow spoken,1,situational,Am I wearing a grey shirt?,yes,1
+QAB,Sentence Comprehension: 2nd admin,slow spoken,2,situational,Are you wearing a pink dress?,no,1
+QAB,Sentence Comprehension: 2nd admin,slow spoken,3,action,Do you brush your teeth with a comb?,no,1
+QAB,Sentence Comprehension: 2nd admin,slow spoken,4,passive,Are babies named by parents?,yes,1
+QAB,Sentence Comprehension: 2nd admin,slow spoken,5,action,Do you take pictures with a camera?,yes,1
+QAB,Sentence Comprehension: 2nd admin,slow spoken,6,aspectual/modal,"If you're about to finish, have you finished yet?",no,1
+QAB,Sentence Comprehension: 2nd admin,slow spoken,7,passive,Are people taxed by governments?,yes,1
+QAB,Sentence Comprehension: 2nd admin,slow spoken,8,aspectual/modal,"If you're about to go inside, are you still outside?",yes,1
+QAB,Sentence Comprehension: 2nd admin,slow spoken,9,passive,Are wolves attacked by deer?,no,1
+QAB,Sentence Comprehension: 2nd admin,slow spoken,10,aspectual/modal,"If he was at the show when you arrived, did he get there first?",yes,1
+QAB,Sentence Comprehension: 2nd admin,slow spoken,11,passive,Are thieves robbed by victims?,no,1
+QAB,Sentence Comprehension: 2nd admin,slow spoken,12,aspectual/modal,"If I tell you I used to drink coffe, do you think I drink coffee now?",no,1
+QAB,Sentence Comprehension: 2nd admin,written,1,situational,Are you a man?,yes,1
+QAB,Sentence Comprehension: 2nd admin,written,2,situational,Am I a man?,no,1
+QAB,Sentence Comprehension: 2nd admin,written,3,action,Do you cut the grass with an axe?,no,1
+QAB,Sentence Comprehension: 2nd admin,written,4,passive,Are babies watched by babysitters?,yes,1
+QAB,Sentence Comprehension: 2nd admin,written,5,action,Do you open your door with a key?,yes,1
+QAB,Sentence Comprehension: 2nd admin,written,6,aspectual/modal,"If you're about to leave, have you left yet?",no,1
+QAB,Sentence Comprehension: 2nd admin,written,7,passive,Are witnesses questioned by police?,yes,1
+QAB,Sentence Comprehension: 2nd admin,written,8,aspectual/modal,"If I tell you I used to smoke, do you think I smoke now?",no,1
+QAB,Sentence Comprehension: 2nd admin,written,9,passive,Are doctors treated by patients?,yes,1
+QAB,Sentence Comprehension: 2nd admin,written,10,aspectual/modal,"If I was at the park when you arrived, did I get there first?",yes,1
+QAB,Sentence Comprehension: 2nd admin,written,11,passive,"If you're about to upstairs, are you still downstairs?",yes,1
+QAB,Sentence Comprehension: 2nd admin,written,12,aspectual/modal,Are cats chased by mice?,no,1
+QAB,Word comprehension,NA,1,NA,lion,correct,1
+QAB,Word comprehension,NA,2,NA,drum,correct,1
+QAB,Word comprehension,NA,3,NA,violin,correct,1
+QAB,Word comprehension,NA,4,NA,giraffe,correct,1
+QAB,Word comprehension,NA,5,NA,bone,correct,1
+QAB,Word comprehension,NA,6,NA,kite,correct,1
+QAB,Word comprehension,NA,7,NA,boot,correct,1
+QAB,Word comprehension,NA,8,NA,goat,correct,1
+QAB,Sentence Comprehension,regular spoken,1,situational,Are you a man?,correct,1
+QAB,Sentence Comprehension,regular spoken,2,situational,Am I a man?,correct,1
+QAB,Sentence Comprehension,regular spoken,3,action,Do you cut the grass with an axe?,correct after repetition,0
+QAB,Sentence Comprehension,regular spoken,4,passive,Are babies watched by babysitters?,correct,1
+QAB,Sentence Comprehension,regular spoken,5,action,Do you open your door with a key?,correct after repetition,0
+QAB,Sentence Comprehension,regular spoken,6,aspectual/modal,"If you're about to leave, have you left yet?",correct,1
+QAB,Sentence Comprehension,regular spoken,7,passive,Are witnesses questioned by police?,correct after repetition,0
+QAB,Sentence Comprehension,regular spoken,8,aspectual/modal,"If I tell you I used to smoke, do you think I smoke now?",correct,1
+QAB,Sentence Comprehension,regular spoken,9,passive,Are doctors treated by patients?,correct after repetition,0
+QAB,Sentence Comprehension,regular spoken,10,aspectual/modal,"If I was at the park when you arrived, did I get there first?",no response,0
+QAB,Sentence Comprehension,regular spoken,11,passive,"If you're about to go upstairs, are you still downstairs?",correct,1
+QAB,Sentence Comprehension,regular spoken,12,aspectual/modal,Are cats chased by mice?,correct,1
+QAB,Picutre Naming,NA,1,NA,dog,correct,1
+QAB,Picutre Naming,NA,2,NA,pencil,correct,1
+QAB,Picutre Naming,NA,3,NA,wheelchair,correct,1
+QAB,Picutre Naming,NA,4,NA,octopus,correct,1
+QAB,Picutre Naming,NA,5,NA,hammock,correct,1
+QAB,Picutre Naming,NA,6,NA,escalator,correct,1
+QAB,Repetition,NA,1,word,house,correct,1
+QAB,Repetition,NA,2,word,breakfast,correct,1
+QAB,Repetition,NA,3,word,catastrophe,"(..) I'm sorry? / examiner repeats / (.) k_ntstr_fi? / examiner repeats at slowed speech rate / oh, catastrophe.",0
+QAB,Repetition,NA,4,word,undetectable,correct after repetition,0
+QAB,Repetition,NA,5,sentence,The sun rises in the east,correct,1
+QAB,Repetition,NA,6,sentence,The ambitious journalist discovered where we'd be going,no response,0
+QAB,Reading,NA,1,word,tin,correct,1
+QAB,Reading,NA,2,word,dough,correct,1
+QAB,Reading,NA,3,word,proposition,correct,1
+QAB,Reading,NA,4,word,inexperienced,correct,1
+QAB,Reading,NA,5,sentence,The baby cries in the night,correct,1
+QAB,Reading,NA,6,sentence,The popular novelist relized why I'd been calling,correct,1
+QAB,Writing,NA,1,word,book,correct,1
+QAB,Writing,NA,2,word,mask,correct,1
+QAB,Writing,NA,3,word,pyramid,correct,1
+QAB,Writing,NA,4,sentence,The boy is washing the girl,correct,1
+QAB,Sentence Comprehension,slow spoken,1,situational,Are you sitting down?,correct,1
+QAB,Sentence Comprehension,slow spoken,2,situational,Am I standing?,correct,1
+QAB,Sentence Comprehension,slow spoken,3,action,Do you eat ice cream with a spoon?,correct,1
+QAB,Sentence Comprehension,slow spoken,4,passive,Are spiders bitten by people?,correct,1
+QAB,Sentence Comprehension,slow spoken,5,action,Do you wear gloves on your feet?,correct,1
+QAB,Sentence Comprehension,slow spoken,6,aspectual/modal,"If you're about to go outside, are you still inside?",correct,1
+QAB,Sentence Comprehension,slow spoken,7,passive,Are worms eaten by birds?,correct,1
+QAB,Sentence Comprehension,slow spoken,8,aspectual/modal,"If I tell you I used to exercise, do you think I exercise now?",correct,1
+QAB,Sentence Comprehension,slow spoken,9,passive,Are babies delivered by doctors?,correct,1
+QAB,Sentence Comprehension,slow spoken,10,aspectual/modal,"If you're about to start, have you started yet?",correct,1
+QAB,Sentence Comprehension,slow spoken,11,passive,Are parents raised by children?,correct,1
+QAB,Sentence Comprehension,slow spoken,12,aspectual/modal,"If you were at the party when I arrived, did you get there first?",correct,1
+QAB,Sentence Comprehension,written,1,situational,Am I wearing a red shirt?,correct,1
+QAB,Sentence Comprehension,written,2,situational,Are you wearing a dress?,correct,1
+QAB,Sentence Comprehension,written,3,action,Do you brush your teeth with a comb?,correct,1
+QAB,Sentence Comprehension,written,4,passive,Are babies named by parents?,correct,1
+QAB,Sentence Comprehension,written,5,action,Do you take pictures with a camera?,correct,1
+QAB,Sentence Comprehension,written,6,aspectual/modal,"If you're about to finish, have you finished yet?",correct,1
+QAB,Sentence Comprehension,written,7,passive,Are people taxed by governments?,correct,1
+QAB,Sentence Comprehension,written,8,aspectual/modal,"If you're about to go inside, are you still outside?",correct,1
+QAB,Sentence Comprehension,written,9,passive,Are wolves attacked by deer?,correct,1
+QAB,Sentence Comprehension,written,10,aspectual/modal,"If he was at the show when you arrived, did he get there first?",correct,1
+QAB,Sentence Comprehension,written,11,passive,Are thieves robbed by victims?,correct,1
+QAB,Sentence Comprehension,written,12,aspectual/modal,"If I tell you I used to drink coffee, do you think I drink coffee now?",correct,1
+QAB,Extra Word Comprehension,NA,1,,guitar,correct,1
+QAB,Extra Word Comprehension,NA,2,,tiger,correct,1
+QAB,Extra Word Comprehension,NA,3,,zebra,correct,1
+QAB,Extra Word Comprehension,NA,4,,saxophone,correct,1
+QAB,Extra Word Comprehension,NA,5,,pear,correct,1
+QAB,Extra Word Comprehension,NA,6,,crown,correct,1
+QAB,Extra Word Comprehension,NA,7,,cloud,correct,1
+QAB,Extra Word Comprehension,NA,8,,chair,correct,1
+QAB,Written Word Comprehension,NA,1,,elephant,correct,1
+QAB,Written Word Comprehension,NA,2,,piano,correct,1
+QAB,Written Word Comprehension,NA,3,,camel,correct,1
+QAB,Written Word Comprehension,NA,4,,trumpet,correct,1
+QAB,Written Word Comprehension,NA,5,,cat,correct,1
+QAB,Written Word Comprehension,NA,6,,box,correct,1
+QAB,Written Word Comprehension,NA,7,,cane,correct,1
+QAB,Written Word Comprehension,NA,8,,socks,correct,1
