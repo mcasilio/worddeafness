@@ -3,13 +3,15 @@ This is a repository of materials supporting analyses reported in a case report 
 
 This repository is currently archived as a means of sharing the files with the public in a read-only format. However, it is still actively maintained. Any questions concerning the analyses or code can be sent to: marianne.e.casilio@vanderbilt.edu.
 
-Included here are three zip files:
+Included here are three branches:
 
-worddeafness_behavior
-worddeafness_neuroimaging
-worddeafness_narrparadigms
+worddeafness-behavior
 
-The contents of these zip files are described below:
+worddeafness-neuroimaging
+
+worddeafness-narrparadigms
+
+The contents of each branch are described below:
 
 # worddeafness_behavior
 This contains data and code for all of the behavioral data of the aforementioned manuscript. Code was written for use in R 4.3.0 for Mac OS. Users will need to specify a working directory and ensure the data file is in said directory prior to running the code.
@@ -22,7 +24,7 @@ This contains data and code for postprocessing the functional MRI maps of the af
 Additionally, we have included smoothed and unsmoothed versions of the lesion mask and the skull-stripped three-dimensional T1 image for reference.
 
 # worddeafness_narrparadigms
-This contains data and code for reproducing the custom spoken and written narrative functional MRI paradigms of the aforementioned manuscript. The stimuli and script for running the paradigms is contained within the narrv2 folder; the script was written for use on MATLAB 2019a for Linux OS and makes use of the Psychophysics toolbox. 
+This contains data and code for reproducing the custom spoken and written narrative functional MRI paradigms of the aforementioned manuscript. The stimuli and script for running the paradigms are also included. The script was written for use on MATLAB 2019a for Linux OS and makes use of the Psychophysics toolbox. 
 
 We also have included a script for creating the paradigm design and some of the stimuli (see worddeafness_fMRI_narr.m). Code was written for use in MATLAB 2019a for Linux OS. Users will need to specify a working directory and ensure the data files are in said directory prior to running the code.
 
