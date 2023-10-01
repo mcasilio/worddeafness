@@ -1,5 +1,5 @@
 # worddeafness
-This is a repository of materials supporting analyses reported in a case report manuscript currently in revision, 'Situating word deafness in aphasia recovery.' 
+This is a repository of materials supporting analyses reported in a case report manuscript currently in revision, 'A case report on word deafness as a stage in aphasia recovery.' 
 
 This repository is currently archived as a means of sharing the files with the public in a read-only format. However, it is still actively maintained. Any questions concerning the analyses or code can be sent to: marianne.e.casilio@vanderbilt.edu.
 
