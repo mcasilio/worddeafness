@@ -1,0 +1,2 @@
+event_type	onset	duration	height	word
+1.001	0.000	29.813	1	
