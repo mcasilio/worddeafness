@@ -5,9 +5,9 @@ This repository is currently archived as a means of sharing the files with the p
 
 Included here are three branches:
 
-worddeafness-behavior
-worddeafness-neuroimaging
-worddeafness-narrparadigms
+   worddeafness-behavior
+   worddeafness-neuroimaging
+   worddeafness-narrparadigms
 
 The contents of each branch are described below:
 
