@@ -1,13 +1,14 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Code for reproducing the stimuli for the spoken and written narrative 
-% paradigms in Casilio et al., "Situating word deafness in aphasia recovery"
+% paradigms in Casilio et al., "Situating word deafness in aphasia 
+% recovery: A case report"
 
 % Last updated by Marianne Casilio on 9/27/23
 % Questions? Email marianne.e.casilio@vanderbilt.edu
 
-% Note: The finalized stimuli is also provided in the narrv2 folder as part 
-% of the larger zip file. The paradigms can be run in Psychophysics toolbox
-% using the nl_present_65.m script in the narrv2 folder.
+% Note: The finalized stimuli are also provided within the larger github 
+% branch. The paradigms can be run in Psychophysics toolbox using the 
+% included nl_present_65.m script.
 
 % Another note: The first run of the spoken narrative paradigm and the 
 % word-level paradigms are available as part of the Adaptive Language 
