@@ -1,6 +1,6 @@
 ################################################################################
 # Code for reproducing analyses in Casilio et al., "Situating word deafness
-# in aphasia recovery"
+# in aphasia recovery: A case report"
 
 # Last updated by Marianne Casilio on 9/25/2023
 # Questions? Email marianne.e.casilio@vanderbilt.edu
