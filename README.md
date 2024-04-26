@@ -1,5 +1,5 @@
 # worddeafness
-This is a repository of materials supporting analyses in a case report manuscript, 'Situating word deafness within aphasia recovery: A case report', published in _Cortex_ [ https://doi.org/10.1016/j.cortex.2023.12.012 ].
+This is a repository of materials supporting analyses in a case report manuscript, 'Situating word deafness within aphasia recovery: A case report', published in _Cortex_ [https://doi.org/10.1016/j.cortex.2023.12.012].
 
 This repository is currently archived as a means of sharing the files with the public in a read-only format. However, it is still actively maintained. Any questions concerning the analyses or code can be sent to: marianne.e.casilio@vanderbilt.edu.
 
